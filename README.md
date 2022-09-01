@@ -14,7 +14,7 @@
 <a href="https://instagram.com/iakhil._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iakhil._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akhilesh190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilesh190" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/akhilesh190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/akhilesh190" height="30" width="40" /></a>
-<a href="https://discord.gg/6627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6627" height="30" width="40" /></a>
+<a href="https://discord.gg/#6627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6627" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
