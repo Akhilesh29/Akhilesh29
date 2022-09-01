@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Kumar Meena</h1>
-<h3 align="center">A passionate web stack developer & competitive programmer</h3>
+<h3 align="center">A passionate full stack web developer & competitive programmer</h3>
 
 - 💬 Ask me about **Javascript,CSS**
 
