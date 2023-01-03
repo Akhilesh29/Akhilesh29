@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Kumar Meena</h1>
 <h3 align="center">A passionate full stack web developer & competitive programmer</h3>
 
-- 💬 Ask me about **Javascript,CSS**
+- 💬 Ask me about **Reactjs,Javascript**
 
 - 📫 How to reach me **akhileshmeena8338@gmail.com**
 
