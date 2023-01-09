@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Kumar Meena</h1>
-<h3 align="center">A passionate full stack web developer & competitive programmer</h3>
+<h3 align="center"> MERN Stack Developer & Competitive Programmer</h3>
 
 - 💬 Ask me about **Reactjs and Javascript.**
 
 - 📫 How to reach me **akhileshmeena8338@gmail.com**
 
-<!-- - 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/1gHiGgGylUdaexymoUlAzg40u1ncV11eu](https://drive.google.com/drive/u/2/folders/1gHiGgGylUdaexymoUlAzg40u1ncV11eu) -->
+- 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/1gHiGgGylUdaexymoUlAzg40u1ncV11eu](https://drive.google.com/drive/u/2/folders/1gHiGgGylUdaexymoUlAzg40u1ncV11eu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
