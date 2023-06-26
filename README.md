@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **akhileshmeena8338@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/1gHiGgGylUdaexymoUlAzg40u1ncV11eu](https://drive.google.com/drive/u/2/folders/1gHiGgGylUdaexymoUlAzg40u1ncV11eu)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heyakhil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyakhil_" height="30" width="40" /></a>
