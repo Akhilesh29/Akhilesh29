@@ -7,9 +7,9 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/heyakhil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyakhil_" height="30" width="40" /></a>
+<a href="https://twitter.com/_Akhil29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyakhil_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhilesh-kumar-meena-459640201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/" height="30" width="40" /></a>
-<a href="https://instagram.com/iakhil._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iakhil._" height="30" width="40" /></a>
+<a href="https://instagram.com/akhhil.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iakhil._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akhilesh190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilesh190" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/akhilesh190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/akhilesh190" height="30" width="40" /></a>
 <a href="https://discord.gg/#6627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6627" height="30" width="40" /></a>
