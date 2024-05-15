@@ -7,7 +7,7 @@
 </h1>
 
 
-## I'm a Full Stack Developer and Competitive Programmer!
+## I'm a MERN Stack Developer and Competitive Programmer!
 
 - 🌱 I’m currently learning about **Competitive Programming**,**DSA** and **MERN Stack Development!**
 
@@ -50,7 +50,7 @@
 <br>
 
 <p align="left">
-	<a href="https://leetcode.com/akhilesh29/" target="_blank">
+	<a href="https://leetcode.com/akhilesh190/" target="_blank">
 		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="c" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- 	<a href="https://codeforces.com/profile/abhaysaini2000" target="_blank">
