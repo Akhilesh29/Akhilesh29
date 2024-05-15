@@ -25,9 +25,14 @@
 
 <div align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh29&layout=compact)](https://github.com/Akhilesh29/github-readme-stats)
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhilesh29&show_icons=true&theme=transparent)
+![profile visit](https://komarev.com/ghpvc/?username=Akhilesh29) 
+![Repos Badge](https://badges.pufler.dev/repos/Akhilesh29)
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=pranshu820&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu820&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 </div>
+
 
 ### 👨‍💻Connect with me
 
