@@ -1,19 +1,74 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Kumar Meena</h1>
-<h3 align="center"> MERN Stack Developer & Competitive Programmer</h3>
+![MasterHead](https://i.ibb.co/yN9kLXh/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif)
 
-- 💬 Ask me about **Reactjs and Javascript.**
+<h1 align="center"?
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Abhay+Saini!" />
+    </a>
+</h1>
+
+
+## I'm a IT student, Android Developer!
+
+- 🌱 I’m currently learning about **Competitive Programming**,**DSA** and **MERN Stack Development!!**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Akhilesh29/](https://github.com/Akhilesh29/)
+
+- 💬 Ask me about **C/C++, DSA, Competitive Programming & MERN Stack Development**
 
 - 📫 How to reach me **akhileshmeena8338@gmail.com**
-  
-<h3 align="left">Connect with me:</h3>
+
+- 📄 Know about other detail in my **[Resume](https://drive.google.com/file/d/1jhfFjg4mIm85iBZkxq1Q1IoSdkW_G3iG/view)**
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+
+### 👦Stats:
+
+<div align="left">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh29&layout=compact)](https://github.com/Akhilesh29/github-readme-stats)
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini&show_icons=true&theme=transparent)
+</div>
+
+### 👨‍💻Connect with me
+
+[<img align="left" alt="f | LinkedIn" width="35px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" />][linkedin]
+[<img align="left" alt="f | Instagram" width="35px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" />][instagram]
+<br />
+<br />
+
+### 🏆 Github trophies
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh29)  
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akhilesh29&margin-w=10&margin-h=10)](https://github.com/Akhilesh29/github-profile-trophy)
+
+
+
+### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="60">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Problem Solving website progress:
+
+<br>
+
 <p align="left">
-<a href="https://twitter.com/_Akhil29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyakhil_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akhilesh-kumar-meena-459640201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/" height="30" width="40" /></a>
-<a href="https://instagram.com/akhhil.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iakhil._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akhilesh190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilesh190" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/akhilesh190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/akhilesh190" height="30" width="40" /></a>
-<a href="https://discord.gg/#6627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6627" height="30" width="40" /></a>
+	<a href="https://leetcode.com/akhilesh29/" target="_blank">
+		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="c" width="60" height="60"/>
+	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- 	<a href="https://codeforces.com/profile/abhaysaini2000" target="_blank">
+		<img src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1"  width="60" height="60"/>
+	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+	<a href="https://auth.https://www.geeksforgeeks.org/user/akhilesh190/" target="_blank">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" height="60"/>
+	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- 	<a href="https://www.codechef.com/users/abhaysaini2002" target="_blank">
+		<img src="https://aditya-25-02.github.io/AdityaResume/Codechef.png" width="60" height="60"/>
+	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+[instagram]: https://www.instagram.com/akhhil.__/
+[linkedin]: https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Akhilesh29/count.svg" />
+</p>
+
