@@ -1,11 +1,4 @@
-![MasterHead](https://i.ibb.co/yN9kLXh/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif)
-
-<h1 align="center"?
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Akhilesh+Meena!" />
-    </a>
-</h1>
-
+## Hey! I'm Akhilesh Meena. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a MERN Stack Developer and Competitive Programmer!
 
