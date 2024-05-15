@@ -1,6 +1,6 @@
 ## Hey! I'm Akhilesh Meena. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a MERN Stack Developer and Competitive Programmer!
+## A passionate Software Developer from India!
 
 - 🌱 I’m currently learning about **Competitive Programming**,**DSA** and **MERN Stack Development!**
 
@@ -22,7 +22,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/Akhilesh29)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pranshu820&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu820&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Akhilesh29&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh29&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 </div>
 
@@ -52,15 +52,13 @@
 	<a href="https://leetcode.com/akhilesh190/" target="_blank">
 		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="c" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- 	<a href="https://codeforces.com/profile/abhaysaini2000" target="_blank">
+<!-- 	<a href="https://codeforces.com/profile/" target="_blank">
 		<img src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1"  width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 	<a href="https://auth.https://www.geeksforgeeks.org/user/akhilesh190/" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- 	<a href="https://www.codechef.com/users/abhaysaini2002" target="_blank">
-		<img src="https://aditya-25-02.github.io/AdityaResume/Codechef.png" width="60" height="60"/>
-	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+
 </p>
 
 [instagram]: https://www.instagram.com/akhhil.__/
