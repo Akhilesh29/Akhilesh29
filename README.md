@@ -7,9 +7,9 @@
 </h1>
 
 
-## I'm a Full Stack Developer, Competitive Programmer!
+## I'm a Full Stack Developer and Competitive Programmer!
 
-- 🌱 I’m currently learning about **Competitive Programming**,**DSA** and **MERN Stack Development!!**
+- 🌱 I’m currently learning about **Competitive Programming**,**DSA** and **MERN Stack Development!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akhilesh29/](https://github.com/Akhilesh29/)
 
@@ -26,7 +26,7 @@
 <div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh29&layout=compact)](https://github.com/Akhilesh29/github-readme-stats)
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini&show_icons=true&theme=transparent)
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhilesh29&show_icons=true&theme=transparent)
 </div>
 
 ### 👨‍💻Connect with me
