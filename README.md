@@ -57,7 +57,7 @@
   </tr>
    <tr>
     <td>GFG</td>
-    <td>https://auth.geeksforgeeks.org/user/abhaysaini2000/practice</td>
+    <td>https://auth.geeksforgeeks.org/user/akhilesh190/practice</td>
   </tr>  
 </table>
 <!-- end problem solving -->
