@@ -49,25 +49,18 @@
 
 
 ### 🌎Problem Solving website progress
-
+<!-- start problem solving -->
 <table border = "1" bordercolor = "blue">
   <tr>
-	  <br>
-
-<p align="left">
-
-/	<a href="https://leetcode.com/akhilesh190/" target="_blank">
-		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="c" width="60" height="60"/>
-	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-/	<a href="https://auth.geeksforgeeks.org/user/akhilesh190/practice" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" height="60"/>
-	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
-
-[instagram]: https://www.instagram.com/akhhil.__/
-[linkedin]: https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/
+    <td>Leetcode</td>
+    <td>https://leetcode.com/akhilesh190/</td>
+  </tr>
+   <tr>
+    <td>GFG</td>
+    <td>https://auth.geeksforgeeks.org/user/abhaysaini2000/practice</td>
+  </tr>  
+</table>
+<!-- end problem solving -->
 
 <p align="center"> 
   Visitor count<br>
