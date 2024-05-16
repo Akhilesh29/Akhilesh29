@@ -48,18 +48,16 @@
 
 
 
-### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="60">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Problem Solving website progress:
+### 🌎Problem Solving website progress
 
-<br>
-
-<p align="left">
+<table border = "1" bordercolor = "blue">
+  <tr>
+/
 	<a href="https://leetcode.com/akhilesh190/" target="_blank">
 		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="c" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- 	<a href="https://codeforces.com/profile/" target="_blank">
-		<img src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1"  width="60" height="60"/>
-	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-	<a href="https://auth.geeksforgeeks.org/user/akhilesh190/practice" target="_blank">
+
+/	<a href="https://auth.geeksforgeeks.org/user/akhilesh190/practice" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
