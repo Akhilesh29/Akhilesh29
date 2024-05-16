@@ -52,8 +52,11 @@
 
 <table border = "1" bordercolor = "blue">
   <tr>
-/
-	<a href="https://leetcode.com/akhilesh190/" target="_blank">
+	  <br>
+
+<p align="left">
+
+/	<a href="https://leetcode.com/akhilesh190/" target="_blank">
 		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="c" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
