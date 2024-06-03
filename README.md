@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akhilesh29/](https://github.com/Akhilesh29/)
 
-- 💬 Ask me about **C/C++, DSA, Competitive Programming & MERN Stack Development**
+- 💬 Ask me about **C++, DSA, Competitive Programming & MERN Stack Development**
 
 - 📫 How to reach me **akhileshmeena8338@gmail.com**
 
