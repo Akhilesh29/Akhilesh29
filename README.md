@@ -1,8 +1,8 @@
-## Hey! I'm Akhilesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Akhilesh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## A Software Developer from India!
 
-- 🌱 I’m currently learning about **Competitive Programming**,**DSA** and **MERN Stack Development!**
+- 🌱 I’m currently learning about **Competitive Programming**, **DSA** and **MERN Stack Development!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akhilesh29/](https://github.com/Akhilesh29/)
 
