@@ -1,6 +1,6 @@
 ## Hey! I'm Akhilesh Meena. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## A passionate Software Developer from India!
+## A Software Developer from India!
 
 - 🌱 I’m currently learning about **Competitive Programming**,**DSA** and **MERN Stack Development!**
 
