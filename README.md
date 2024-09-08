@@ -1,4 +1,4 @@
-## Hey! I'm Akhilesh Meena. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Akhilesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## A Software Developer from India!
 
