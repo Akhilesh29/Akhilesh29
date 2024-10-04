@@ -1,6 +1,13 @@
-## Hey! I'm Akhilesh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi, I'm Akhilesh </h1>
+<h3 align="center">Software Developer | Building reliable web experiences</h3>
 
-## A Software Developer from India!
+<h3 align="center">Building delightful experiences with code.</h3>
+
+<p align="center">Connect with me:
+  <a href="https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning about **Competitive Programming**, **DSA** and **MERN Stack Development!**
 
