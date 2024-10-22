@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akhilesh </h1>
-<h3 align="center">Software Developer | Building reliable web experiences</h3>
+<h3 align="center">Software Developer | Building reliable web experiences👾</h3>
 
 <p align="center">Connect with me:
   <a href="https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/" target="_blank">
