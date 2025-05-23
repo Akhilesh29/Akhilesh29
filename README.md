@@ -1,26 +1,10 @@
-<h1 align="center">Hi, I'm Akhilesh </h1>
-<h3 align="center">Software Developer | Building reliable and scalable softwares👾</h3>
+## Hey! I'm Akhilesh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center">Connect with me:
-  <a href="https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![GitHub Akhiles29](https://img.shields.io/github/followers/Akhilesh29?label=follow&style=social)](https://github.com/Akhilesh29)
+[![Linkedin: Akhilesh](https://img.shields.io/badge/-Akhilesh%20Meena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/)](https://www.linkedin.com/in/akhilesh-kumar-meena-459640201/)
+[![Twitter: akhiltwts](https://img.shields.io/twitter/follow/akhiltwts?style=social)](https://twitter.com/akhiltwts)
 
-<br/>
+I build reliable and scalable softwares.
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilesh29&theme=material_palenight" alt="A beautiful sunset">
-</p>
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,linux,git,github,html,mongodb,js,postman,react,py,nodejs,express,mysql,tailwind,vscode,postgresql,aws,jest &perline=8" />
-  </a>
-</p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh29&hide_progress=true&theme=radical" alt="Akhilesh29" /></p>
-<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=Akhilesh29&theme=dark" alt="Akhilesh29" /></p>
-
+[![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilesh29&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Akhilesh29-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh29&layout=compact&theme=calm)](https://github.com/Akhilesh29-readme-stats)
