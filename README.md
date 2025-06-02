@@ -6,5 +6,8 @@
 
 I build reliable and scalable software products.
 
-[![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilesh29&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Akhilesh29-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh29&layout=compact&theme=calm)](https://github.com/Akhilesh29-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilesh29&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhilesh29&theme=solarized&exclude=jupyter%20notebook)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akhilesh29&theme=solarized&exclude=jupyter%20notebook)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akhilesh29&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akhilesh29&theme=solarized)
