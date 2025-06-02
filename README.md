@@ -7,7 +7,5 @@
 I build reliable and scalable software products.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilesh29&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhilesh29&theme=solarized&exclude=jupyter%20notebook)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akhilesh29&theme=solarized&exclude=jupyter%20notebook)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akhilesh29&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akhilesh29&theme=solarized)
